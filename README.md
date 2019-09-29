@@ -1,7 +1,7 @@
 **Instagram Clone**
 
-**Technologies used**
-* Uses MVVM.
+**About**
+* Uses MVVM architecture.
 * Firebase is used as backend database.
 * ExoPlayer for video playback.
 * FirebaseAuth for authentication.
